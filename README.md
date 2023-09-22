@@ -1,4 +1,4 @@
-<img width="1512" alt="mocha" src="https://github.com/21st-centuryman/Sioyek/assets/60197499/8b12f4a8-70fc-48f1-a43b-ab3a6b7d9ce4"><img width="1512" alt="latte" src="https://github.com/21st-centuryman/Sioyek/assets/60197499/fefeded6-8fe2-4934-8ad3-a292e3c591cb"><h3 align="center">
+<h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Catppuccin for <a href="https://sioyek.info/">Sioyek</a>
@@ -15,28 +15,26 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
 </p>
 
+
+
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/bde2a86d-2b9b-47d8-859c-b02388c59d9"/>
+<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/7fbc896c-e0e7-4b93-87f8-5d7848d269a8"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/faf4e76f-58b4-49cc-80d0-0b1384b7ecac"/>
+<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/53a1064d-5927-4ce9-8bd7-3ba9c8390e0d"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/b5b5f91a-2373-47b7-9dc2-b21938e2fd21"/>
+<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/e077ef25-91d5-4e7c-b33c-cd7e9411235a"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/4875374b-43b5-4222-bd32-06f24f56b447"/>
+<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/aec7e0ed-29ad-4951-8245-7cbe12db3ef1"/>
 </details>
-
-
-
-
 
 ## Usage
 
