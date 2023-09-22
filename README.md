@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/7fbc896c-e0e7-4b93-87f8-5d7848d269a8"/>
+<img src="./assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/53a1064d-5927-4ce9-8bd7-3ba9c8390e0d"/>
+<img src="./assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/e077ef25-91d5-4e7c-b33c-cd7e9411235a"/>
+<img src="./assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/21st-centuryman/Sioyek/assets/60197499/aec7e0ed-29ad-4951-8245-7cbe12db3ef1"/>
+<img src="./assets/mocha.webp"/>
 </details>
 
 ## Usage
