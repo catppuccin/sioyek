@@ -36,9 +36,12 @@
 
 ## Usage
 
-1. Create the config directory ```mkdir ~/.config/sioyek/prefs_user.config```
-2. Copy the your desired flavor
-3. If you want the colors to run on startup you should add the following line to the start of your config: ```startup_commands		toggle_custom_color```
+1. Create the config file ```mkdir ~/.config/sioyek/prefs_user.config```
+2. Copy your desired flavor from the [themes](/themes) directory into the config file.
+3. If you want the colors to run on startup you should add the following line to the start of your config:
+    ```
+    startup_commands toggle_custom_color
+    ```
 4. Open a new PDF in Sioyek or run ```toggle_custom_colors``` in the application.
 
 ## 💝 Thanks to
