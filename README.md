@@ -12,37 +12,36 @@
 </p>
 
 <p align="center">
-	<img src="./assets/res.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="./assets/latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="./assets/frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="./assets/macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="./assets/mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-1. Create the config file ```mkdir ~/.config/sioyek/prefs_user.config```
-2. Copy your desired flavor from the [themes](/themes) directory into the config file.
-3. If you want the colors to run on startup you should add the following line to the start of your config:
-    ```
-    startup_commands toggle_custom_color
-    ```
-4. Open a new PDF in Sioyek or run ```toggle_custom_colors``` in the application.
+1. Copy your flavor of choice from [`themes/`](./themes/) into your [Sioyek configuration file](https://sioyek-documentation.readthedocs.io/en/latest/configuration.html) (typically `~/.config/sioyek/prefs_user.config`).
+2. If you want the colors to run on startup, add the following line to the start of your configuration file.
+   ```
+   startup_commands toggle_custom_color
+   ```
+   Otherwise, run `toggle_custom_colors` in Sioyek to enable the theme.
 
 ## 💝 Thanks to
 
