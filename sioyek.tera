@@ -1,0 +1,36 @@
+---
+whiskers:
+  version: 2.1.0
+  matrix:
+    - flavor
+  filename: "themes/catppuccin-{{ flavor.identifier }}.config"
+---
+
+{%- set palette = flavor.colors -%}
+
+# === CATPPUCCIN {{ flavor.name | upper }} === #
+background_color           #{{ palette.base.hex }}
+
+text_highlight_color       #{{ palette.yellow.hex }}
+visual_mark_color          #{{ palette.overlay1.hex }}
+
+search_highlight_color     #{{ palette.yellow.hex }}
+link_highlight_color       #{{ palette.blue.hex }}
+synctex_highlight_color    #{{ palette.green.hex }}
+
+highlight_color_a          #{{ palette.yellow.hex }}
+highlight_color_b          #{{ palette.green.hex }}
+highlight_color_c          #{{ palette.sky.hex }}
+highlight_color_d          #{{ palette.maroon.hex }}
+highlight_color_e          #{{ palette.mauve.hex }}
+highlight_color_f          #{{ palette.red.hex }}
+highlight_color_g          #{{ palette.yellow.hex }}
+
+
+custom_background_color    #{{ palette.base.hex }}
+custom_text_color          #{{ palette.text.hex }}
+
+ui_text_color              #{{ palette.text.hex }}
+ui_background_color        #{{ palette.surface0.hex }}
+ui_selected_text_color     #{{ palette.text.hex }}
+ui_selected_background_color #{{ palette.surface2.hex }}
