@@ -1,36 +1,34 @@
 ---
 whiskers:
-  version: 2.1.0
+  version: ^2.5.1
   matrix:
     - flavor
   filename: "themes/catppuccin-{{ flavor.identifier }}.config"
 ---
 
-{%- set palette = flavor.colors -%}
-
 # === CATPPUCCIN {{ flavor.name | upper }} === #
-background_color           #{{ palette.base.hex }}
+background_color           #{{ base.hex }}
 
-text_highlight_color       #{{ palette.yellow.hex }}
-visual_mark_color          #{{ palette.overlay1.hex }}
+text_highlight_color       #{{ yellow.hex }}
+visual_mark_color          #{{ overlay1.hex }}
 
-search_highlight_color     #{{ palette.yellow.hex }}
-link_highlight_color       #{{ palette.blue.hex }}
-synctex_highlight_color    #{{ palette.green.hex }}
+search_highlight_color     #{{ yellow.hex }}
+link_highlight_color       #{{ blue.hex }}
+synctex_highlight_color    #{{ green.hex }}
 
-highlight_color_a          #{{ palette.yellow.hex }}
-highlight_color_b          #{{ palette.green.hex }}
-highlight_color_c          #{{ palette.sky.hex }}
-highlight_color_d          #{{ palette.maroon.hex }}
-highlight_color_e          #{{ palette.mauve.hex }}
-highlight_color_f          #{{ palette.red.hex }}
-highlight_color_g          #{{ palette.yellow.hex }}
+highlight_color_a          #{{ yellow.hex }}
+highlight_color_b          #{{ green.hex }}
+highlight_color_c          #{{ sky.hex }}
+highlight_color_d          #{{ maroon.hex }}
+highlight_color_e          #{{ mauve.hex }}
+highlight_color_f          #{{ red.hex }}
+highlight_color_g          #{{ yellow.hex }}
 
 
-custom_background_color    #{{ palette.base.hex }}
-custom_text_color          #{{ palette.text.hex }}
+custom_background_color    #{{ base.hex }}
+custom_text_color          #{{ text.hex }}
 
-ui_text_color              #{{ palette.text.hex }}
-ui_background_color        #{{ palette.surface0.hex }}
-ui_selected_text_color     #{{ palette.text.hex }}
-ui_selected_background_color #{{ palette.surface2.hex }}
+ui_text_color              #{{ text.hex }}
+ui_background_color        #{{ surface0.hex }}
+ui_selected_text_color     #{{ text.hex }}
+ui_selected_background_color #{{ surface2.hex }}
