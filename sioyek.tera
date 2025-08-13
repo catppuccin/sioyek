@@ -32,3 +32,6 @@ ui_text_color              #{{ text.hex }}
 ui_background_color        #{{ surface0.hex }}
 ui_selected_text_color     #{{ text.hex }}
 ui_selected_background_color #{{ surface2.hex }}
+
+status_bar_color           #{{ surface0.hex }}
+status_bar_text_color      #{{ text.hex }}
